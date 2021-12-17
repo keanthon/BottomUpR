@@ -1,0 +1,188 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch testMaster1",
+            "request": "launch",
+            "mainClass": "syn.project.testMaster1",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch testMaster2",
+            "request": "launch",
+            "mainClass": "syn.project.testMaster2",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch testMaster3",
+            "request": "launch",
+            "mainClass": "syn.project.testMaster3",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch testMaster",
+            "request": "launch",
+            "mainClass": "syn.project.testMaster",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test12TF",
+            "request": "launch",
+            "mainClass": "syn.project.Test12TF",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test11TF",
+            "request": "launch",
+            "mainClass": "syn.project.Test11TF",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test10",
+            "request": "launch",
+            "mainClass": "syn.pa3.Test10",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test10TF",
+            "request": "launch",
+            "mainClass": "syn.project.Test10TF",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test8TF",
+            "request": "launch",
+            "mainClass": "syn.project.Test8TF",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomTestMaker",
+            "request": "launch",
+            "mainClass": "syn.project.RandomTestMaker",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test7TF",
+            "request": "launch",
+            "mainClass": "syn.project.Test7TF",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test2TF",
+            "request": "launch",
+            "mainClass": "syn.project.Test2TF",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch SynthesizerTFtest",
+            "request": "launch",
+            "mainClass": "syn.project.SynthesizerTFtest",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test7",
+            "request": "launch",
+            "mainClass": "syn.pa2.Test7",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Test9",
+            "request": "launch",
+            "mainClass": "syn.pa3.Test9",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test8",
+            "request": "launch",
+            "mainClass": "syn.pa3.Test8",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "syn.pa0.Test1",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test0",
+            "request": "launch",
+            "mainClass": "syn.pa0.Test0",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test2",
+            "request": "launch",
+            "mainClass": "syn.pa1.Test2",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test3",
+            "request": "launch",
+            "mainClass": "syn.pa1.Test3",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test4",
+            "request": "launch",
+            "mainClass": "syn.pa2.Test4",
+            "projectName": "syn",
+            "vmArgs": [
+                "-Djava.library.path=${workspaceFolder}/lib/bin"
+            ],
+            "env": {
+                "Path": "${workspaceFolder}/lib/bin"
+            }
+        },
+        {
+            "type": "java",
+            "name": "Launch Test5",
+            "request": "launch",
+            "mainClass": "syn.pa2.Test5",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test6",
+            "request": "launch",
+            "mainClass": "syn.pa2.Test6",
+            "projectName": "syn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test7",
+            "request": "launch",
+            "mainClass": "syn.pa2.Test7",
+            "projectName": "syn"
+        }
+    ]
+}
